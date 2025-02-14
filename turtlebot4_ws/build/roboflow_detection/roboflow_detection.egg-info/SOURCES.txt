@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/roboflow_detection
+roboflow_detection/__init__.py
+roboflow_detection/roboflow_node.py
+roboflow_detection.egg-info/PKG-INFO
+roboflow_detection.egg-info/SOURCES.txt
+roboflow_detection.egg-info/dependency_links.txt
+roboflow_detection.egg-info/entry_points.txt
+roboflow_detection.egg-info/requires.txt
+roboflow_detection.egg-info/top_level.txt
+roboflow_detection.egg-info/zip-safe

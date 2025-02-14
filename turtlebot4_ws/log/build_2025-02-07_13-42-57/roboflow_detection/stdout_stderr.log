@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating roboflow_detection.egg-info
+writing roboflow_detection.egg-info/PKG-INFO
+writing dependency_links to roboflow_detection.egg-info/dependency_links.txt
+writing entry points to roboflow_detection.egg-info/entry_points.txt
+writing requirements to roboflow_detection.egg-info/requires.txt
+writing top-level names to roboflow_detection.egg-info/top_level.txt
+writing manifest file 'roboflow_detection.egg-info/SOURCES.txt'
+reading manifest file 'roboflow_detection.egg-info/SOURCES.txt'
+writing manifest file 'roboflow_detection.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/manar/turtlebot4_ws/install/roboflow_detection/lib/python3.10/site-packages/roboflow-detection.egg-link (link to .)
+Installing roboflow_node script to /home/manar/turtlebot4_ws/install/roboflow_detection/lib/roboflow_detection
+
+Installed /home/manar/turtlebot4_ws/build/roboflow_detection
+running symlink_data
+creating /home/manar/turtlebot4_ws/install/roboflow_detection/share/ament_index
+creating /home/manar/turtlebot4_ws/install/roboflow_detection/share/ament_index/resource_index
+creating /home/manar/turtlebot4_ws/install/roboflow_detection/share/ament_index/resource_index/packages
+symbolically linking /home/manar/turtlebot4_ws/build/roboflow_detection/resource/roboflow_detection -> /home/manar/turtlebot4_ws/install/roboflow_detection/share/ament_index/resource_index/packages
+symbolically linking /home/manar/turtlebot4_ws/build/roboflow_detection/package.xml -> /home/manar/turtlebot4_ws/install/roboflow_detection/share/roboflow_detection

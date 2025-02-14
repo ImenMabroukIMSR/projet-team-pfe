@@ -1,0 +1,3 @@
+[submodule "turtlebot4_ws/src/turtlebot4_simulator"]
+	path = turtlebot4_ws/src/turtlebot4_simulator
+	url = https://github.com/ImenMabroukIMSR/projet-team-pfe.git

@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/manar/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/manar/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/manar/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/manar/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

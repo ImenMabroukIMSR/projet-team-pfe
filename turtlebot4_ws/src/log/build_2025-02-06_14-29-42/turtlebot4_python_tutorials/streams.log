@@ -1,0 +1,37 @@
+[0.742s] Invoking command in '/home/manar/turtlebot4_ws/src/turtlebot4_python_tutorials': PYTHONPATH=/home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlebot4_python_tutorials build --build-base /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build install --record /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/install.log --single-version-externally-managed install_data
+[0.935s] running egg_info
+[0.935s] creating ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info
+[0.935s] writing ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/PKG-INFO
+[0.936s] writing dependency_links to ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/dependency_links.txt
+[0.936s] writing entry points to ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/entry_points.txt
+[0.936s] writing requirements to ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/requires.txt
+[0.936s] writing top-level names to ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/top_level.txt
+[0.936s] writing manifest file '../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/SOURCES.txt'
+[0.938s] reading manifest file '../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/SOURCES.txt'
+[0.939s] writing manifest file '../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info/SOURCES.txt'
+[0.939s] running build
+[0.939s] running build_py
+[0.939s] creating /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build
+[0.939s] creating /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib
+[0.940s] creating /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib/turtlebot4_python_tutorials
+[0.940s] copying turtlebot4_python_tutorials/turtlebot4_first_python_node.py -> /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib/turtlebot4_python_tutorials
+[0.940s] copying turtlebot4_python_tutorials/__init__.py -> /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib/turtlebot4_python_tutorials
+[0.940s] running install
+[0.940s] running install_lib
+[0.940s] creating /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials
+[0.941s] copying /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib/turtlebot4_python_tutorials/turtlebot4_first_python_node.py -> /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials
+[0.941s] copying /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build/lib/turtlebot4_python_tutorials/__init__.py -> /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials
+[0.941s] byte-compiling /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials/turtlebot4_first_python_node.py to turtlebot4_first_python_node.cpython-310.pyc
+[0.941s] byte-compiling /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials/__init__.py to __init__.cpython-310.pyc
+[0.941s] running install_data
+[0.941s] creating /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/share/ament_index
+[0.942s] creating /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/share/ament_index/resource_index
+[0.942s] creating /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/share/ament_index/resource_index/packages
+[0.942s] copying resource/turtlebot4_python_tutorials -> /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/share/ament_index/resource_index/packages
+[0.942s] copying package.xml -> /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/share/turtlebot4_python_tutorials
+[0.942s] running install_egg_info
+[0.943s] Copying ../build/turtlebot4_python_tutorials/turtlebot4_python_tutorials.egg-info to /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages/turtlebot4_python_tutorials-0.0.0-py3.10.egg-info
+[0.943s] running install_scripts
+[0.959s] Installing turtlebot4_first_python_node script to /home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/turtlebot4_python_tutorials
+[0.959s] writing list of installed files to '/home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/install.log'
+[0.985s] Invoked command in '/home/manar/turtlebot4_ws/src/turtlebot4_python_tutorials' returned '0': PYTHONPATH=/home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manar/turtlebot4_ws/src/install/turtlebot4_python_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlebot4_python_tutorials build --build-base /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/build install --record /home/manar/turtlebot4_ws/src/build/turtlebot4_python_tutorials/install.log --single-version-externally-managed install_data

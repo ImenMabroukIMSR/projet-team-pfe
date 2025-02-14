@@ -1,0 +1,1 @@
+/home/manar/turtlebot4_ws/src/turtlebot4_python_tutorials/setup.py
